@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: gold;
+    font-family: 'Lucida Sans';
+    text-align: center;
+  }
+  
+  p {
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+  }
+
+  .cen {
+      text-align: center;
+  }
